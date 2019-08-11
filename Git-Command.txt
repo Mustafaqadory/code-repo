@@ -3,3 +3,4 @@
 3-git clone "url"
 4-git add + file name
 5-git commit -m "description" + file name
+6-git push -u origin master
